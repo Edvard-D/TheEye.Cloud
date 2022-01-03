@@ -2,7 +2,7 @@ using System;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace TheEye.Cloud.Hypotheses.Recorder
+namespace TheEye.Lab.Hypotheses.Recorder
 {
 	public class Program
 	{

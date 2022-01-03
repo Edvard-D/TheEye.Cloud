@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheEye.Cloud.Hypotheses.Recorder", "TheEye.Cloud.Hypotheses.Recorder\TheEye.Cloud.Hypotheses.Recorder.csproj", "{EB04E89B-21F7-4DCD-9569-BD716613B176}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheEye.Lab.Hypotheses.Recorder", "TheEye.Lab.Hypotheses.Recorder\TheEye.Lab.Hypotheses.Recorder.csproj", "{EB04E89B-21F7-4DCD-9569-BD716613B176}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheEye.Cloud.Hypotheses.Recorder.UnitTests", "TheEye.Cloud.Hypotheses.Recorder.UnitTests\TheEye.Cloud.Hypotheses.Recorder.UnitTests.csproj", "{EB73817E-310D-412B-BC15-71FE939466BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheEye.Lab.Hypotheses.Recorder.UnitTests", "TheEye.Lab.Hypotheses.Recorder.UnitTests\TheEye.Lab.Hypotheses.Recorder.UnitTests.csproj", "{EB73817E-310D-412B-BC15-71FE939466BC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheEye.Databases", "TheEye.Databases\TheEye.Databases.csproj", "{940CBC1E-D91A-4EAB-82B6-05A2CE175553}"
 EndProject

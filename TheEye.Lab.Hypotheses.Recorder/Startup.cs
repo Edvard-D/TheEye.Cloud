@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-namespace TheEye.Cloud.Hypotheses.Recorder
+namespace TheEye.Lab.Hypotheses.Recorder
 {
 	public class Startup
 	{

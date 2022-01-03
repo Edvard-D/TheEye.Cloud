@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "TheEye.Cloud.Hypotheses.Recorder": {
+    "TheEye.Lab.Hypotheses.Recorder": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
